@@ -10,8 +10,8 @@ Software Developer
 * You can read my blog posts here [Hashnode](https://clementlumumba.hashnode.dev/)
 
 ### 🛠️: Skills:
-- **Proficient:** Python, Django, TypeScript
-- **Moderate:** GCP
+- **Proficient:** Python, Django, C#, TypeScript, .NET
+- **Moderate:** GCP, Azure
 - **Database:** SQL Server, MySQL, PostgreSQL
 
 ---
